@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hazelcast-jet-4.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/training/hazelcast-jet-4.5/lib/hazelcast-jet-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
